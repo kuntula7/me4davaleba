@@ -40,32 +40,25 @@ ul{
 }
 .siaxle1{
     background-color: #FF9900;
-    width: 457px;
     height: 348px;
-    margin: 20px
 }
 img{
-    width: 457px;
+    width: 100%;
     height: 200px;
 }
 .siaxle2{
     background-color: #FFC700;
-    width: 457px;
     height: 348px;
-    margin: 20px;
 }
 .siaxle3{
     background-color: #FFE600;
-    width: 457px;
     height: 348px;
-    margin: 20px;
 }
 h2{
     margin: 5px 10px;
 }
 .teqsti{
     overflow: hidden;
-    padding: 0px;
     color: black;
     margin: 0px 30px;
     text-align: left;
@@ -75,42 +68,58 @@ a{
     color: rgb(0, 0, 0,0.5);
     margin-left: 10px;
 }
-div{
+article{
     float: left;
     width: 33.33%;
+    margin-top: 10px;
 }
-.futeri{
-    color: black;
+.maindiv{
+    margin-left: 10px;
 
 }
 footer{
     width: 153px;
-    height: 16px;
-    margin-bottom: 10px;
-    margin-left: 10px;
+    height: 20px;
 }
-.pagesiaxle{
-    margin-top: 10px;
+.futeri{
+    color: black;
+    width: 100%;
+
 }
-.page1{
-    background-color:#FF9900 ;
+.page1div{
+    margin-left: 0px;
+    background-color: #FF9900;
     width: 90%;
     height: 741px;
     margin: auto;
 }
-p{
-    margin: 0px 20px;
-
-}
-.page2{
+.page2div{
+    margin-left: 0px;
     background-color:#FFC700 ;
     width: 90%;
     height: 741px;
     margin: auto;
 }
-.page3{
+.page3div{
+    margin-left: 0px;
     background-color:#FFE600 ;
     width: 90%;
     height: 741px;
     margin: auto;
+}
+.dabruneba1{
+    margin-left: 45px;
+}
+.dabruneba2{
+    margin-left: 45px;
+}
+.dabruneba3{
+    margin-left: 45px;
+}
+.pagesiaxle{
+    margin-top: 10px;
+}
+p{
+    margin: 0px 20px;
+
 }
